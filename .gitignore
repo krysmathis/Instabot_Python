@@ -140,3 +140,5 @@ cython_debug/
 # test folder
 test/
 .test
+
+secrets.py
